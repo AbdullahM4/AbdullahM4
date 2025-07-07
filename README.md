@@ -1,3 +1,13 @@
+Hi, I'm Abdullah! 👋
+
+- Passionate software developer with experience in C#, Java, Python, and web technologies.
+- Interested in full-stack development, data science, and AI/ML.
+- Always learning and improving my skills to build impactful projects.
+- Open to collaboration and new opportunities.
+
+Feel free to connect with me below! 😊
+
+---
 <h3 align="left">
   Connect with me: <br>
   📧 <a href="mailto:abdullahm.alyousef10@gmail.com" style="color:blue; text-decoration:underline;">abdullahm.alyousef10@gmail.com</a><br>
