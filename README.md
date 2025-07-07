@@ -11,14 +11,10 @@ Feel free to connect with me below! 😊
 <h3 align="left">
   Connect with me: <br>
   📧 <a href="mailto:abdullahm.alyousef10@gmail.com" style="color:blue; text-decoration:underline;">abdullahm.alyousef10@gmail.com</a><br>
+  
   📱 <a href="tel:+966506194455" style="color:blue; text-decoration:underline;">+966506194455</a>
 </h3>
 
----
-
-### 🌐 Social Links
-
-- 📧 [Email](mailto:abdullahm.alyousef10@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdullahalyousef10/)
 
 ---
