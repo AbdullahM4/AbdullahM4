@@ -1,10 +1,10 @@
-Hi, I'm Abdullah! 👋
+## 💥 About Me
 
-- Passionate software developer with experience in C#, Java, Python, and web technologies.
-- Interested in full-stack development, data science, and AI/ML.
-- Always learning and improving my skills to build impactful projects.
-- Open to collaboration and new opportunities.
-
+- 💻 Software Engineer  
+- 🎓 Fresh graduate from IAU with a B.S. in Computer Science  
+- 💡 Interested in software development and AI/ML  
+- 🤝 Open to collaboration and new opportunities
+  
 Feel free to connect with me below! 😊
 
 ---
