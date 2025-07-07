@@ -6,10 +6,10 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahM4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahM4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</div>
+### 🌐 Social Links
+
+- 📧 [Email](mailto:abdullahm.alyousef10@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdullahalyousef10/)
 
 ---
 
@@ -40,7 +40,11 @@
 
 ---
 
-### 🌐 Social Links
 
-- 📧 [Email](mailto:abdullahm.alyousef10@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/abdullahalyousef10/)
+<div align="center">
+  <!-- 🔥 GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahm4&theme=black-ice&hide_border=true&stroke=DD2727&ring=DD2727&fire=DD2727&currStreakLabel=DD2727" height="200" />
+
+  <!-- 📊 Most Used Languages - styled to match "black-ice" -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahm4&layout=compact&hide_border=true&bg_color=151515&title_color=DD2727&text_color=DD2727&icon_color=DD2727" height="200" />
+</div>
