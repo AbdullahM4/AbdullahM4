@@ -1,6 +1,6 @@
 ## 💥 About Me
 
-- 💻 Software Engineer  
+- 💻 Fullstack developer 
 - 🎓 Fresh graduate from IAU with a B.S. in Computer Science  
 - 💡 Interested in software development and AI/ML  
 - 🤝 Open to collaboration and new opportunities
